@@ -9,24 +9,6 @@ Your personal clipboard with text and media sharing.
 <table>
   <tr>
     <td align="center">
-      <a href="https://sudheebsp.in"><img src="https://avatars.githubusercontent.com/u/49405254?v=4?s=100" width="150px;" alt=""/>
-        <br />
-	<b>Sudhindra Pai</b>
-      </a>
-      <br />
-      <a href="https://github.com/Sudhee-bsp/clipnow/commits?author=Sudhee-bsp" title="Code">💻</a> 
-      <a href="#design-Sudhee-bsp" title="Design">🎨</a> 
-      <a href="https://github.com/Sudhee-bsp/clipnow/issues?q=author%3ASudhee-bsp" title="Bug reports">🐛</a>
-      <p align="center">
-	<a href = "https://github.com/Sudhee-bsp">
-	    <img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="32" height = "32" alt="GitHub"/>
-	</a>
-	<a href = "https://www.linkedin.com/in/sudhindra-pai26/">
-	    <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="32" height="32" alt="LinkedIn"/>
-	</a>
-       </p>
-    </td>
-    <td align="center">
       <a href="https://kodalihemanthchowdary.netlify.app/">
         <img src="https://avatars.githubusercontent.com/u/62458642?v=4" width="150px;" alt=""/>
         <br />

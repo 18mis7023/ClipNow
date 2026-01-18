@@ -1,0 +1,52 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+
+.text_center {
+  text-align: center;
+}
+
+#clipid {
+  background-color: #aadaee;
+  /* color: #ffffff; */
+}
+
+.disperr {
+  /* all: unset; */
+  color: #cc0033;
+  display: inline-block;
+  font-size: 12px;
+  /* margin-top: -23px; */
+  /* float: left; */
+}
+
+.copy_btn {
+  clear: both;
+  float: right;
+}
+
+.myaccordion {
+  height: auto;
+}
+
+.mycontainer {
+  min-height: 100%;
+  display: block;
+}
+
+.myfooter {
+  position: absolute;
+  bottom: 0;
+  height: 68px; 
+  width: 100%;
+}
+
+.navbar {
+  justify-content: flex-end;
+}
